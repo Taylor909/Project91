@@ -1,0 +1,52 @@
+body
+{
+	background: rgb(91, 119, 92);
+}
+
+	.logIn_d1 , .logIn_d2
+	{
+		background: #bdbdbd;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player_1 , #player_2
+{
+	display:inline-block;
+	margin-left: 20px;
+}
+#number_1,#number_2
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: #bdbdbd;
+border-radius: 10px;
+border-top: 10px solid rgb(70, 90, 70);
+padding: 10px;
+float: none;
+text-align: left;
+}
+#gameStart{
+	width:500px;
+}
+#logInBTN{
+	background-color: #b97b7b;
+	border-color:#7c5252;
+	border-width: 5px;
+	border-radius: 15px;
+	}
+
+#player1,#player2{
+	padding-left: 20px;
+}
+#player1Score,#player2Score{
+	padding-left: 20px;
+}
